@@ -8,3 +8,5 @@ create new branch dev
 todo something
 
 1 dev todo 1
+
+2 dev todo 2
